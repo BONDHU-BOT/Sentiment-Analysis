@@ -20,7 +20,7 @@
 
 **Notes: GRU performed well.**
 
-## Performance (CNN) 
+## Performance (GRU) 
 
 <table>
   <tr>
