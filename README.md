@@ -2,17 +2,17 @@
 
 ### Dataset Source
 
-IMDB Dataset: https://www.kaggle.com/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews
-Twitter sentiment analysis: https://github.com/vineetdhanawat/twitter-sentiment-analysis/blob/master/datasets/Sentiment%20Analysis%20Dataset%20100000.csv
-glove.6B.100d.txt Dataset: https://www.kaggle.com/danielwillgeorge/glove6b100dtxt
+- [IMDB Dataset](https://www.kaggle.com/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews)
+- [Twitter sentiment analysis](https://github.com/vineetdhanawat/twitter-sentiment-analysis/blob/master/datasets/Sentiment%20Analysis%20Dataset%20100000.csv)
+- [glove.6B.100d.txt Dataset](https://www.kaggle.com/danielwillgeorge/glove6b100dtxt)
 
 
 ## Model Used
 
-##### Machine Learning
+### Machine Learning
 - SVM
 
-##### Deep Learning
+### Deep Learning
 1. Simple Neural Network
 2. CNN
 3. GRU
@@ -21,7 +21,7 @@ glove.6B.100d.txt Dataset: https://www.kaggle.com/danielwillgeorge/glove6b100dtx
 
 **Notes: CNN performed well.**
 
-#### Performance (CNN) 
+## Performance (CNN) 
 
 <table>
   <tr>
