@@ -14,23 +14,22 @@
 
 ### Deep Learning
 1. Simple Neural Network
-2. CNN
-3. GRU
-4. LSTM
-5. Bi-directional LSTM
+2. GRU
+3. LSTM
+4. Bi-directional LSTM
 
-**Notes: CNN performed well.**
+**Notes: GRU performed well.**
 
 ## Performance (CNN) 
 
 <table>
   <tr>
-    <td>Accuracy CNN</td>
-    <td>Loss CNN</td>
+    <td>Accuracy GRU</td>
+    <td>Loss GRU</td>
   </tr>
   <tr>
-    <td><img src="output/acc_cnn.png" ></td>
-    <td><img src="output/loss_cnn.png" ></td>
+    <td><img src="output/acc_gru.png" ></td>
+    <td><img src="output/loss_gru.png" ></td>
   </tr>
  </table>
 
