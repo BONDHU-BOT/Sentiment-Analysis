@@ -47,6 +47,3 @@ predictions(["I am very happy to hear that."])
 predictions(["Wow! You look so beautiful."])
 ```
     'positive'
-```
-
--------
